@@ -10,7 +10,7 @@
 - **Security & Access Management:** User authentication, Role-based access control
 
 ## 📂 Featured Projects
-- **[Project 1](https://github.com/yourusername/project1)** - Short description  
+- **[Project 1](Gwooley/osTicket-Installation)** - Short description  
 - **[Project 2](https://github.com/yourusername/project2)** - Short description  
 
 ## 📫 Contact
